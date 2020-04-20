@@ -1,0 +1,8 @@
+label.textflow{
+	width: 10px; 
+    overflow: hidden;
+    text-overflow:ellipsis;
+}
+label.textflow:hover{
+	overflow: visible;
+}
