@@ -1,5 +1,5 @@
 # k-graph
-Kibana Network Visualization compatible with Kibana 6.1.3. It uses vis.js for rendering a network graph.
+Kibana Network Visualization compatible with Kibana 6.1.3. It uses vis.js for rendering a network graph. It is an app type of plugin for kibana.
 ## To add the Kibana plugin, follow the steps:
 * Enclose the plugin directory in a directory named kibana
 * Zip the directory, name the zip the name of the plugin
